@@ -1,6 +1,4 @@
-# Forca
-
-Descrição
+# Descrição
 
 Jogo da forca com três níveis de dificuldade e dica associada à palavra jogada.
 
