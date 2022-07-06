@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1657117671 source:d:\bianca\documentos\curso programação\forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1657117728 source:c:\users\bb\desktop\forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
